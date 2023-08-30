@@ -19,3 +19,12 @@
 - p06-operaciones-matematicas.py
 - p07-funciones-trigonometricas.py
 - p08-dividir-en-cifras.py
+
+
+# Actividad 3
+
+# 30/08/23
+- p15-verificar-numero.py
+- p16-verificar-suma.py
+- p17-convertir-temperaturas.py
+- p18-paga-trabajador-v2.py
