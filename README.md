@@ -28,3 +28,14 @@
 - p16-verificar-suma.py
 - p17-convertir-temperaturas.py
 - p18-paga-trabajador-v2.py
+
+
+ # Tarea 1
+
+ - p09-hipotenusa-triangulo.py
+ - p10-tercer-angulo.py
+ - p11-convertir-temperatura.py
+ - p12-volumen-cilindro.py
+ - p13-calculo-tiempo.py
+ - p14-numero-suerte.py
+ 

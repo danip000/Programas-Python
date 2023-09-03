@@ -18,4 +18,4 @@ else:
     res = (temp * 9 / 5) + 32
     print(f'{temp} grados centigrados equivale a {res:.2f} grados Farenheit')
     
-print('\nProceso temrinado ...')
+print('\nProceso terminado ...')
